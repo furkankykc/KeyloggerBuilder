@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Release\Keylogger Builder.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Release\Keylogger Builder.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Release\Keylogger Builder.xml
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\Keylogger_oluşturucu.Form1.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\Keylogger_oluşturucu.Resources.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\Keylogger Builder.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\Keylogger Builder.xml
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Release\Keylogger Builder.pdb

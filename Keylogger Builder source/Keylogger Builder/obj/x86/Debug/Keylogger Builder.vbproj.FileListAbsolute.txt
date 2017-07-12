@@ -1,0 +1,54 @@
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keylogger Builder.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keylogger Builder.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keylogger Builder.xml
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger_oluşturucu.Form1.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger_oluşturucu.Resources.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.xml
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.pdb
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.exe
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.xml
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.pdb
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keylogger Builder.exe
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keylogger Builder.pdb
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keylogger Builder.xml
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger_oluşturucu.Form1.resources
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger_oluşturucu.Resources.resources
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Form1.resources
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Resources.resources
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.exe
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.pdb
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.xml
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.exe
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.xml
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.pdb
+D:\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Form2.resources
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.exe
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.xml
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.pdb
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.exe
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.pdb
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.xml
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Form1.resources
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Form2.resources
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Resources.resources
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.vbproj.GenerateResource.Cache
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.exe
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.xml
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keyloç Logger.pdb
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.exe
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.pdb
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\bin\Debug\Keyloç Logger.xml
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Form1.resources
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Form2.resources
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\KeyloçLogger.Resources.resources
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\Keylogger Builder\Keylogger Builder\obj\x86\Debug\Keylogger Builder.vbproj.GenerateResource.Cache

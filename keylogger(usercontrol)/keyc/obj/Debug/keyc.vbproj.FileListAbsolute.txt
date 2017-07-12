@@ -1,0 +1,11 @@
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\bin\Debug\keyc.dll
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\bin\Debug\keyc.pdb
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\bin\Debug\keyc.xml
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\ResolveAssemblyReference.cache
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\WindowsControlLibrary1.Resources.resources
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\WindowsControlLibrary1.UserControl1.resources
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\GenerateResource.read.1.tlog
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\GenerateResource.write.1.tlog
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\keyc.dll
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\keyc.xml
+D:\Furkan\Visual Studio 2010\Projects\keyc\keyc\obj\Debug\keyc.pdb

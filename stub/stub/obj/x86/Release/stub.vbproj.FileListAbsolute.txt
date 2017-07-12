@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\Desktop\stub.exe
+C:\Documents and Settings\Administrator\Desktop\stub.pdb
+C:\Documents and Settings\Administrator\Desktop\stub.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\stub.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\stub.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\stub.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\stub.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Release\stub.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\stub.exe
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\stub.xml
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\stub.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\bin\Debug\stub.exe
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\bin\Debug\stub.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\bin\Debug\stub.xml
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\ctfmon.exe.Form1.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Release\ctfmon.exe.Resources.resources

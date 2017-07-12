@@ -1,0 +1,60 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\bin\Debug\stub.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\bin\Debug\stub.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\bin\Debug\stub.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\stub.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\stub.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\stub.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\stub.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\stub\obj\x86\Debug\stub.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\bin\Debug\stub.exe
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\bin\Debug\stub.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\bin\Debug\stub.xml
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\stub.exe
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\stub.xml
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\stub.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\ctfmon.exe.Form1.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\stub\stub\obj\x86\Debug\ctfmon.exe.Resources.resources
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stubss.exe.Form1.resources
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stubss.exe.Resources.resources
+D:\Visual Studio 2010\Projects\stub\stub\bin\Debug\stub.exe
+D:\Visual Studio 2010\Projects\stub\stub\bin\Debug\stub.pdb
+D:\Visual Studio 2010\Projects\stub\stub\bin\Debug\stub.xml
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.exe
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.xml
+D:\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.pdb
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.exe
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.xml
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.pdb
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\bin\Debug\stub.exe
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\bin\Debug\stub.pdb
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\bin\Debug\stub.xml
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stubss.exe.Form1.resources
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stubss.exe.Resources.resources
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.exe
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.xml
+C:\Videolar\Furkan\Furkan\Visual Studio 2010\Projects\stub\stub\obj\x86\Debug\stub.pdb
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\stub\stub\obj\x86\Debug\stub.exe
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\stub\stub\obj\x86\Debug\stub.xml
+C:\Users\Fatih\Documents\Visual Studio 2012\Projects\Keylogger\stub\stub\obj\x86\Debug\stub.pdb
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stub.exe
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stub.xml
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stub.pdb
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\bin\Debug\stub.exe
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\bin\Debug\stub.pdb
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\bin\Debug\stub.xml
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stub.vbprojResolveAssemblyReference.cache
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stubss.exe.Form1.resources
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stubss.exe.Resources.resources
+C:\Users\Furkan\Downloads\Compressed\_nemli programlar\Önemli programlar\Keylogger\stub\stub\obj\x86\Debug\stub.vbproj.GenerateResource.Cache
